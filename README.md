@@ -6,7 +6,7 @@ Audit your RevenueCat project config for common setup mistakes before they cost 
 $ RC_API_KEY=sk_... python3 src/audit.py
 
 ============================================================
-Project: projaf07dfb5
+Project: projXXXXXXXX
 ============================================================
   ✓ Has at least one app  (2 found)
   ℹ Apps: Test Store (test_store), zarpa-ios (app_store)
